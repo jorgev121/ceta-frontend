@@ -1,0 +1,15 @@
+section {
+    height: 11em;
+    background-color: #11002d;
+    display: flex !important;
+    align-items: center;
+    /*background-image: url('./../../assets/background.png');*/
+}
+.card-body {
+padding: 0.25rem !important;
+}
+
+.card-row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
